@@ -1,0 +1,11 @@
++ wp-config.php
++ wp-content/plugins/
++ wp-content/themes/
++ wp-content/uploads/
+- wp-admin/
+- wp-content/*
+- wp-includes/
+- wordpress/*.php
+- wordpress/*.txt
+- wordpress/*.html
+- .*
