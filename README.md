@@ -6,7 +6,7 @@ Ce script permet de sauvegarder automatiquement un site Wordpress sur un serveur
 - Un serveur FTP distant accessible
 - CurlFtpFS
 - Rsync
-- Archive (tar.gz) contenant une version de WordPress identique de préférence avec la version sauvegardé
+- Archive (tar.gz) contenant une version de WordPress identique de préférence avec la version sauvegardée
 
 ## Variables
 ### Script de Sauvegarde
